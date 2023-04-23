@@ -1,0 +1,81 @@
+I.
+
+Clearing Agency’s Statement of the Terms of Substance of the Proposed Rule Change The proposed rule change5 would (i) revise NSCC’s Certificate of Incorporation6 to update NSCC’s registered agent upon whom process against NSCC may be served and 1 15 U.S.C. 78s(b)(1). 2 17 CFR 240.19b-4. 3 15 U.S.C. 78s(b)(3)(A). 4 17 CFR 240.19b-4(f)(3). 5 Capitalized terms not defined herein are defined in NSCC’s Rules & Procedures (“Rules”), available at https://www.dtcc.com/legal/rules-and-procedures. 6 NSCC’s Certificate of Incorporation is available at http://www.dtcc.com/legal/rules-and-procedures. (ii) update the Rules to provide an email address for sending a copy of any notices to NSCC, as described in greater detail below.
+
+I
+
+I.
+
+Clearing Agency’s Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change In its filing with the Commission, the clearing agency included statements concerning the purpose of and basis for the proposed rule change and discussed any comments it received on the proposed rule change.
+
+The text of these statements may be examined at the places specified in Item IV below.
+
+The clearing agency has prepared summaries, set forth in sections A, B, and C below, of the most significant aspects of such statements. (A) Clearing Agency’s Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change 1.
+
+Purpose The proposed rule change would (i) revise NSCC’s Certificate of Incorporation to update NSCC’s registered agent upon whom process against NSCC may be served and (ii) update the Rules to provide an email address for sending copies of any notice to NSCC, as described in greater detail below.
+
+Proposed Updates to NSCC’s Certificate of Incorporation NSCC’s Certificate of Incorporation currently states that the Secretary of State is NSCC’s designated agent for service of process, and that copies of any process against NSCC shall be mailed to NSCC at 55 Water Street, New York, NY 10041 (“55 Water”).
+
+With NSCC’s upcoming departure from 55 Water, NSCC would amend its Certificate of Incorporation to appoint C T Corporation System as its registered agent upon whom process against NSCC may be served, and provide C T Corporation System’s address.
+
+Proposed Updates to Rule 45 2 NSCC proposes to revise Section 2 of Rule 45 (Notices), which currently provides that any notice from an Interested Person to NSCC shall be sufficiently served on NSCC if the notice is in writing and delivered or mailed to NSCC at its principal place of business.
+
+NSCC would update this section to provide an email address for sending a copy of notices to NSCC’s General Counsel’s Office. 2.
+
+Statutory Basis Section 17A(b)(3)(F) of the Act requires that the rules of the clearing agency be designed, inter alia, to promote the prompt and accurate clearance and settlement of securities transactions.7 NSCC believes the proposed rule change is consistent with the Section 17A(b)(3)(F) of the Act.
+
+As described above, the proposed rule change would update (i) the NSCC Certificate of Incorporation to change NSCC’s registered agent for serving process on NSCC and (ii) Rule 45 to provide an email address for sending a copy of notices to NSCC’s General Counsel’s Office.
+
+The proposed changes are intended to update information on NSCC’s process agent and how to send notices to NSCC.
+
+With these changes, NSCC believes its members and the public would be better informed on how best to serve NSCC, which could help promote the prompt and accurate clearance and settlement of securities transactions of those members and the public, consistent with the requirements of the Act, in particular Section 17A(b)(3)(F) of the Act, cited above. 7 15 U.S.C. 78q-1(b)(3)(F). 3 (B) Clearing Agency’s Statement on Burden on Competition NSCC does not believe that the proposed rule change would have any impact or impose any burden on competition because, as described above, the proposed rule change simply updates certain process and notice information and should not have any competitive impact on members or their use of NSCC services. (C) Clearing Agency’s Statement on Comments on the Proposed Rule Change Received from Members, Participants, or Others NSCC has not received or solicited any written comments relating to this proposal.
+
+If any written comments are received, NSCC will amend this filing to publicly file such comments as an Exhibit 2 to this filing, as required by Form 19b-4 and the General Instructions thereto.
+
+Persons submitting written comments are cautioned that, according to Section IV (Solicitation of Comments) of the Exhibit 1A in the General Instructions to Form 19b-4, the Commission does not edit personal identifying information from comment submissions.
+
+Commenters should submit only information that they wish to make available publicly, including their name, email address, and any other identifying information.
+
+All prospective commenters should follow the Commission’s instructions on How to Submit Comments, available at https://www.sec.gov/regulatory-actions/how-to-submit- comments.
+
+General questions regarding the rule filing process or logistical questions regarding this filing should be directed to the Main Office of the Commission’s Division of Trading and Markets at tradingandmarkets@sec.gov or 202-551-5777.
+
+NSCC reserves the right to not respond to any comments received. 4 II
+
+I.
+
+Date of Effectiveness of the Proposed Rule Change, and Timing for Commission Action The foregoing rule change has become effective pursuant to Section 19(b)(3)(A)8 of the Act and paragraph (f)9 of Rule 19b-4 thereunder.
+
+At any time within 60 days of the filing of the proposed rule change, the Commission summarily may temporarily suspend such rule change if it appears to the Commission that such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of the Act.
+
+IV.
+
+Solicitation of Comments Interested persons are invited to submit written data, views and arguments concerning the foregoing, including whether the proposed rule change is consistent with the Act.
+
+Comments may be submitted by any of the following methods: Electronic Comments:  Use the Commission’s Internet comment form (http://www.sec.gov/rules/sro.shtml); or  Send an e-mail to rule-comments@sec.gov.
+
+Please include File Number SR-NSCC-2023-004 on the subject line.
+
+Paper Comments:  Send paper comments in triplicate to Secretary, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549. 8 15 U.S.C. 78s(b)(3)(A). 9 17 CFR 240.19b-4(f). 5 All submissions should refer to File Number SR-NSCC-2023-004.
+
+This file number should be included on the subject line if e-mail is used.
+
+To help the Commission process and review your comments more efficiently, please use only one method.
+
+The Commission will post all comments on the Commission’s Internet website (http://www.sec.gov/rules/sro.shtml).
+
+Copies of the submission, all subsequent amendments, all written statements with respect to the proposed rule change that are filed with the Commission, and all written communications relating to the proposed rule change between the Commission and any person, other than those that may be withheld from the public in accordance with the provisions of 5 U.S.C. 552, will be available for website viewing and printing in the Commission’s Public Reference Room, 100 F Street, NE, Washington, DC 20549 on official business days between the hours of 10:00 a.m. and 3:00 p.m.
+
+Copies of the filing also will be available for inspection and copying at the principal office of NSCC and on DTCC’s website (http://dtcc.com/legal/sec-rule- filings.aspx).
+
+All comments received will be posted without change.
+
+Persons submitting comments are cautioned that we do not redact or edit personal identifying information from comment submissions.
+
+You should submit only information that you wish to make 6 available publicly.
+
+All submissions should refer to File Number SR-NSCC-2023-004 and should be submitted on or before [insert date 21 days from publication in the Federal Register].
+
+For the Commission, by the Division of Trading and Markets, pursuant to delegated authority.10 Sherry R.
+
+Haywood Assistant Secretary 10 17 CFR 200.30-3(a)(12). 7
