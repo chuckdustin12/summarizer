@@ -8,35 +8,8 @@ Required Python packages can be installed using pip by running the following com
 Copy code
 pip install -r requirements.txt
 Usage
-The following functions are available in the program:
+Run 'summarizer.py' and you will be prompted for a URL. Copy / paste the URL you want and it will summarize it for you.
 
-extract_html_text(url): Extracts text from a HTML page at the specified URL.
-extract_html_text_from_file(file_path): Extracts text from a HTML file at the specified file path.
-extract_pdf_text(file_path): Extracts text from a PDF file at the specified file path.
-extract_pdf_text_from_url(url): Extracts text from a PDF file at the specified URL.
-tokenize(text, tokenizer): Tokenizes the specified text using the specified tokenizer.
-split_text(text, tokenizer, max_length=1024): Splits the specified text into chunks of the specified maximum length.
-You can import these functions into your Python code and use them as required.
+Run 'test_pdf.py' or 'test_html.py' after replacing the URL with your URL of choice to have the output saved as a text file.
 
-Here's an example of how to use the extract_html_text() function:
-
-python
-Copy code
-import requests
-from text_extraction import extract_html_text
-
-url = "https://www.example.com"
-text = extract_html_text(url)
-print(text)
-Here's an example of how to use the extract_pdf_text_from_url() function:
-
-python
-Copy code
-import requests
-from text_extraction import extract_pdf_text_from_url
-
-url = "https://www.example.com/example.pdf"
-text = extract_pdf_text_from_url(url)
-print(text)
-License
-This program is licensed under the MIT License.
+Just a starting point, but figured it may help someone out there.
